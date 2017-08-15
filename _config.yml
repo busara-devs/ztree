@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: Site Title
+title: zTree Repository for the Behavioral Sciences
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: A library of zTree files, tutorials and related tools.
+logo: busaralogo.jpg
 search: true
-url: http://localhost:4000
+url: https://davidclarance.github.io/zTree
+
+#http://localhost:4000
 
 # Jekyll configuration
 
@@ -36,9 +38,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: David Clarance
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: david.clarance@busaracenter.org
   disqus-shortname:
   twitter: #username
   facebook: #username
