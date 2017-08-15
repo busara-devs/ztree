@@ -1,2 +1,3 @@
-# busaracenter.github.io
-Z-tree pages
+# Welcome to the zTree Hub!
+
+![slider](images/template/slider.jpg)
