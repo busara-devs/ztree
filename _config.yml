@@ -5,7 +5,7 @@ locale: en_US
 description: A library of zTree files, tutorials and related tools.
 logo: busaralogo.jpg
 search: true
-url: https://davidclarance.github.io/zTree
+url: https://busaracenter.github.io/zTree
 
 #http://localhost:4000
 
@@ -38,9 +38,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: David Clarance
-  avatar: bio-photo.jpg
-  email: david.clarance@busaracenter.org
+  name: Busara Center
+  avatar: #bio-photo.jpg
+  email: #david.clarance@busaracenter.org
   disqus-shortname:
   twitter: #username
   facebook: #username

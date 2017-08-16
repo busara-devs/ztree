@@ -3,7 +3,7 @@
   
     {
       "title"			: "Sliders",
-      "link"			: "https://davidclarance.github.io/zTree/code/sliders/",
+      "link"			: "http://localhost:4000/code/sliders/",
       "excerpt"		: "Touch screen sliders with dynamic position display"
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Randomizing screens within a stage",
-      "link"			: "https://davidclarance.github.io/zTree/code/randomized-screens/",
+      "link"			: "http://localhost:4000/code/randomized-screens/",
       "excerpt"		: "Generate random orders of screens within a stage"
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Creating randomized arrays",
-      "link"			: "https://davidclarance.github.io/zTree/code/randomized-array/",
+      "link"			: "http://localhost:4000/code/randomized-array/",
       "excerpt"		: "Create a array with randomized numbers drawn without replacement"
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Touch screen number pad",
-      "link"			: "https://davidclarance.github.io/zTree/code/number-pad/",
+      "link"			: "http://localhost:4000/code/number-pad/",
       "excerpt"		: "Number pad with Clear button to enable individuals who have never used a keyboard before to enter numbers"
     }
   
@@ -35,7 +35,7 @@
   
     ,{
       "title"			: "zTree Code Template",
-      "link"			: "https://davidclarance.github.io/zTree/code/code-template/",
+      "link"			: "http://localhost:4000/code/code-template/",
       "excerpt"		: "A standardized format to upload a new code snippet"
     }
   
@@ -43,7 +43,7 @@
   
     ,{
       "title"			: "MathJax Example",
-      "link"			: "https://davidclarance.github.io/zTree/tutorials/mathjax-example/",
+      "link"			: "http://localhost:4000/tutorials/mathjax-example/",
       "excerpt"		: "MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics  ... , and the other for inline mathematics  ... ."
     }
   
@@ -51,7 +51,7 @@
   
     ,{
       "title"			: "Hello World",
-      "link"			: "https://davidclarance.github.io/zTree/tutorials/hello-world/",
+      "link"			: "http://localhost:4000/tutorials/hello-world/",
       "excerpt"		: "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext."
     }
   
@@ -73,9 +73,11 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "https://davidclarance.github.io/zTree/theme-setup/",
+      "link"			: "http://localhost:4000/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
+  
+
   
 
   
