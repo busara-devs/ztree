@@ -5,7 +5,7 @@ locale: en_US
 description: A library of zTree files, tutorials and related tools.
 logo: busaralogo.jpg
 search: true
-url: https://busaracenter.github.io/zTree
+url: https://busaracenter.github.io/ztree
 
 #http://localhost:4000
 
