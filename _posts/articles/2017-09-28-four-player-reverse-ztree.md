@@ -11,7 +11,7 @@ share: true
 
 <div class="btn-group">
  <a href="https://github.com/busaracenter/ztree/tree/master/_site/CodeSnippets/HabitsofVirtue" class="btn">Download ztt </a>
- <a href="https://gits/Protocol_20160906.docx" class="btn">View image</a>
+ <a href="https://github.com/busaracenter/ztree/blob/master/_site/images/CPRScreenNoRules.png" class="btn">View image</a>
 </div>
 
 
