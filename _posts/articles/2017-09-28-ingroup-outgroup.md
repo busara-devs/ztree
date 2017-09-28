@@ -10,8 +10,8 @@ share: true
 
 
 <div class="btn-group">
- <a href="https://github.com/busaracenter/ztree/tree/master/_site/CodeSnippets/HabitsofVirtue" class="btn">Download ztt </a>
- <a href="https://github.com/busaracenter/ztree/blob/master/_site/images/CPRScreenNoRules.png" class="btn">View image</a>
+ <a href="https://github.com/busaracenter/ztree/blob/9d427d2297c881d3d8d097566f6ea144b8b7df2b/_site/CodeSnippets/IngroupOutgroup/ingroup_outgroup_20170928.txt" class="btn">Download raw text </a>
+ <a href="https://github.com/busaracenter/ztree/blob/9d427d2297c881d3d8d097566f6ea144b8b7df2b/_site/CodeSnippets/IngroupOutgroup/1_DG_v1.ztt" class="btn">Download ztt </a>
 </div>
 
 

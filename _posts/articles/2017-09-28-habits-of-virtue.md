@@ -25,9 +25,9 @@ share: true
 
 ### Documentation
 
-###### Using the text file
+###### Using the file
 
-To use the zTree text file, click the **Download text** button above. It will take you to a text file. Right click and "Save As" to your computer. In zTree use File > Import to read the file in. Please note that there are compatibility issues across different zTree versions so make you have a version that's the same or later than the version the file was written in.
+To use the zTree file, click the **Download ztt** button above. It will take you to a file. Click on "View raw" and save to your computer. In zTree use File > Import to read the file in. Please note that there are compatibility issues across different zTree versions so make you have a version that's the same or later than the version the file was written in.
 
 
 
